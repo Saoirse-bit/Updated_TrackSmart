@@ -29,7 +29,7 @@ const MobileNav = () => {
               src="/icons/tracksmart.svg"
               width={32}
               height={32}
-              alt="yoom logo"
+              alt="tracksmart logo"
             />
             <p className="text-[26px] font-extrabold text-white">TRACKSMART</p>
           </Link>
